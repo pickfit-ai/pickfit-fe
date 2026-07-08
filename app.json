@@ -2,6 +2,9 @@
   "expo": {
     "name": "PickFit",
     "slug": "pickfit",
-    "scheme": "pickfit"
+    "scheme": "pickfit",
+    "experiments": {
+      "reactCompiler": true
+    }
   }
 }
